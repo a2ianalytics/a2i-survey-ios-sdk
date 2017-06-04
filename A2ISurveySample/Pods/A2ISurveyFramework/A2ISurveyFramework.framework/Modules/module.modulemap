@@ -1,0 +1,6 @@
+framework module A2ISurveyFramework {
+  umbrella header "A2ISurveyFramework.h"
+
+  export *
+  module * { export * }
+}

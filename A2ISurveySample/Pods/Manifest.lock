@@ -1,0 +1,35 @@
+PODS:
+  - A2ISurveyFramework (0.0.1):
+    - CMDQueryStringSerialization
+    - NJKWebViewProgress (= 0.2.3)
+  - CMDQueryStringSerialization (0.4.1):
+    - ISO8601
+  - ISO8601 (0.6.0)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+
+DEPENDENCIES:
+  - A2ISurveyFramework (from `https://github.com/Sapanesh/testframework2.git`, tag `0.0.3`)
+
+EXTERNAL SOURCES:
+  A2ISurveyFramework:
+    :git: https://github.com/Sapanesh/testframework2.git
+    :tag: 0.0.3
+
+CHECKOUT OPTIONS:
+  A2ISurveyFramework:
+    :git: https://github.com/Sapanesh/testframework2.git
+    :tag: 0.0.3
+
+SPEC CHECKSUMS:
+  A2ISurveyFramework: 1a44af6f5c117fa01c16d9bfbd41497e4300a08f
+  CMDQueryStringSerialization: 4bb0a2f5e7d8d8678d911d88072274952cbef4e5
+  ISO8601: d3ea3ba9b752820cf92c6b47a9ee327e9f0e13fc
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+
+PODFILE CHECKSUM: ec5e2996485e75deb40562eaedf982aedcc00e4d
+
+COCOAPODS: 1.0.1
