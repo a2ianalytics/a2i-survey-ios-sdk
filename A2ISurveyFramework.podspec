@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "A2ISurveyFramework"
-s.version          = "0.0.2"
+s.version          = "0.0.3"
 s.summary      = " A2I Survey iOS SDK"
 s.description  = " A2I Survey iOS SDK with sample application "
 s.homepage         = "http://www.a2i.co/"
