@@ -1,5 +1,5 @@
 PODS:
-  - A2ISurveyFramework (0.0.1):
+  - A2ISurveyFramework (0.0.2):
     - CMDQueryStringSerialization
     - NJKWebViewProgress (= 0.2.3)
   - CMDQueryStringSerialization (0.4.1):
@@ -12,24 +12,24 @@ PODS:
   - NJKWebViewProgress/ProgressView (0.2.3)
 
 DEPENDENCIES:
-  - A2ISurveyFramework (from `https://github.com/Sapanesh/testframework2.git`, tag `0.0.3`)
+  - A2ISurveyFramework (from `https://github.com/a2ianalytics/a2i-survey-ios-sdk.git`, tag `0.0.3`)
 
 EXTERNAL SOURCES:
   A2ISurveyFramework:
-    :git: https://github.com/Sapanesh/testframework2.git
+    :git: https://github.com/a2ianalytics/a2i-survey-ios-sdk.git
     :tag: 0.0.3
 
 CHECKOUT OPTIONS:
   A2ISurveyFramework:
-    :git: https://github.com/Sapanesh/testframework2.git
+    :git: https://github.com/a2ianalytics/a2i-survey-ios-sdk.git
     :tag: 0.0.3
 
 SPEC CHECKSUMS:
-  A2ISurveyFramework: 1a44af6f5c117fa01c16d9bfbd41497e4300a08f
+  A2ISurveyFramework: 203d799580e31fea4c63ce3bdb5fca244eca797a
   CMDQueryStringSerialization: 4bb0a2f5e7d8d8678d911d88072274952cbef4e5
   ISO8601: d3ea3ba9b752820cf92c6b47a9ee327e9f0e13fc
   NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
 
-PODFILE CHECKSUM: ec5e2996485e75deb40562eaedf982aedcc00e4d
+PODFILE CHECKSUM: 14f958c1d2b3eac75cc240cfd5deb9b790940ac9
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.2.1

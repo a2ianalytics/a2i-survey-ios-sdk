@@ -36,7 +36,7 @@
 {
     A2IDashboardViewController *cnt = [A2IDashboardViewController new];
     cnt.delegate =self;
-    cnt.dashboard_id =@"fNyAHHY3";
+    cnt.dashboard_id =@"NJXyEUf6";
     [cnt presentFromViewController:self animated:YES completion:nil];
 
 }

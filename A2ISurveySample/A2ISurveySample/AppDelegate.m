@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import <A2ISurveyFramework/A2ISurveyFramework.h>
 @interface AppDelegate ()
 
 @end
@@ -17,6 +17,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    /*
+    A2ISurveyViewController *cnt = [A2ISurveyViewController new];
+    cnt.survey_id =@"NJXyEUf6";
+    cnt.delegate =self;
+    [cnt scheduleInterceptFromViewController:self alertTitle:@"A2I" alertBody:@"Do you want to give feedback?" positiveActionTitle:@"POSITIVE" cancelTitle:@"Cancel" afterInstallInterval:50 afterAcceptInterval:50 afterDeclineInterval:50];*/
+    
     return YES;
 }
 

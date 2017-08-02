@@ -131,4 +131,12 @@
 
 @property (nonatomic,weak)id<A2IDashboardDelegate>delegate;
 
+
+/**
+ Logout from dashboard
+ 
+ */
++(void)logout;
+
+
 @end
