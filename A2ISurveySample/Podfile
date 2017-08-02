@@ -6,6 +6,6 @@ target 'A2ISurveySample' do
   # use_frameworks!
 
   # Pods for A2ISurvey
-pod 'A2ISurveyFramework', :git => 'https://github.com/a2ianalytics/a2i-survey-ios-sdk.git', :tag => '0.0.3'
+pod 'A2ISurveyFramework', :git => 'https://github.com/a2ianalytics/a2i-survey-ios-sdk.git', :tag => '0.0.4'
 
 end
